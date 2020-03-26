@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Visual-ConstructionSite.unity
-    guid: 1de0f15d2877eba4fae9127c220e0afb
+    path: Assets/Scenes/Visual-ConstructionSiteJoined.unity
+    guid: a2740bc72543a7744993b2229b77013a
   m_configObjects: {}
