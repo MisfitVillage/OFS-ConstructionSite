@@ -208,7 +208,7 @@ Material:
     - _DiscardNormal: 0
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.252
+    - _Glossiness: 0.059
     - _GlossyReflections: 1
     - _MainWindStr: 0.1
     - _Metallic: 0
